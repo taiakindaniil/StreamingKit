@@ -77,7 +77,8 @@
             @"caf": @(kAudioFileCAFType),
             @"aac": @(kAudioFileAAC_ADTSType),
             @"ac3": @(kAudioFileAC3Type),
-            @"3gp": @(kAudioFile3GPType)
+            @"3gp": @(kAudioFile3GPType),
+            @"flac": @(kAudioFileFLACType)
         };
     });
     

@@ -152,7 +152,8 @@
             @"audio/3gpp": @(kAudioFile3GPType),
             @"video/3gpp": @(kAudioFile3GPType),
             @"audio/3gp2": @(kAudioFile3GP2Type),
-            @"video/3gp2": @(kAudioFile3GP2Type)
+            @"video/3gp2": @(kAudioFile3GP2Type),
+            @"audio/flac": @(kAudioFileFLACType)
         };
     });
     
